@@ -1,7 +1,7 @@
 # react-native-sample
 react native samples
 
-* Track
+* Tracking App
 https://github.com/kvntzn/track
 * Blog App
 https://github.com/kvntzn/Blog-app
