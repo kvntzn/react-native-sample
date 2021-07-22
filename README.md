@@ -11,5 +11,5 @@ https://github.com/kvntzn/Restaurant-app
 https://github.com/kvntzn/TikTok
 * Instagram Clone App
 https://github.com/kvntzn/rn-instagram
-* MERN Shop - inprogress
+* MERN Shop - (backend)
 https://github.com/kvntzn/mern-shop-frontend
