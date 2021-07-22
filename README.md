@@ -12,4 +12,4 @@ https://github.com/kvntzn/TikTok
 * Instagram Clone App
 https://github.com/kvntzn/rn-instagram
 * MERN Shop - (backend)
-https://github.com/kvntzn/mern-shop-frontend
+https://github.com/kvntzn/mern-shop-backend
