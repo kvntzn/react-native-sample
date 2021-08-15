@@ -13,5 +13,3 @@ https://github.com/kvntzn/TikTok
 https://github.com/kvntzn/rn-instagram
 * Airbnb Clone App
 https://github.com/kvntzn/airbnb
-* MERN Shop - (backend)
-https://github.com/kvntzn/mern-shop-backend
